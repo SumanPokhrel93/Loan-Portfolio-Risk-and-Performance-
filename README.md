@@ -91,6 +91,7 @@ This project shows how Python, SQL and Tableau can be used together in an end-to
 
 ## Attachments
 - Dataset : [Link](https://www.openintro.org/data/index.php?data=loans_full_schema)
-- Python Notebook: [Jupyter](http://localhost:8888/notebooks/Loan_analysis.ipynb?)
-Tableau : ![Dashboard](Images/Dashboard.png)
+- Python Notebook: [Jupyter](http://localhost:8888/notebooks/Loan_analysis.ipynb?) , Screenshots in Images Folder
+- SQL : Screenshots of queries in Images Folder
+- Tableau : ![Dashboard](Images/Dashboard.png)
 
